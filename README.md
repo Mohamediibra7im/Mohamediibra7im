@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=midoriya-2-0&color=brightgreen)
 
-<img align="right" height="300" src="https://userpic.codeforces.org/3759192/title/4ba300e5f478550f.jpg"  />
+<img align="right" height="250" src="https://userpic.codeforces.org/3759192/title/4ba300e5f478550f.jpg"  />
 
 - 📝 I'm currently working on Projects using C++
 - 🌱 I'm currently learning Advanced Algorithms and Data Structures
@@ -25,7 +25,7 @@
 
 <br />
 
-### Languages :
+### Languages:
 
 <img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
@@ -36,7 +36,7 @@
 <img align="left" alt="JAVASCRIPT" width="35px" src="https://www.svgrepo.com/show/452045/js.svg" />
 <br />
 
-### Tools
+### Tools:
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <br />
