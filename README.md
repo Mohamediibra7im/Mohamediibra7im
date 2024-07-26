@@ -4,8 +4,7 @@
 
 📧 mi4043673@gmail.com | 📞 01101873008 | 📍 Giza, Egypt
 
-[LeetCode](https://leetcode.com/u/midoriya_2_0/) | [CodeForces](https://codeforces.com/profile/midoriya_2_0) | [GitHub](https://github.com/midoriya-2-0) | [LinkedIn](https://www.linkedin.com/in/mohammediibra7im1/) | [HackerRank](https://www.hackerrank.com/profile/midoriya_2_0)
-
+[LeetCode](https://leetcode.com/u/midoriya_2_0/) | [CodeForces](https://codeforces.com/profile/midoriya_2_0) | [LinkedIn](https://www.linkedin.com/in/mohammediibra7im1/) .
 ---
 
 ### 👨‍🎓 Education
