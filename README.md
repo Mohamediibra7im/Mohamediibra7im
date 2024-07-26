@@ -4,7 +4,7 @@
 
 Developing software and solving problems using C, C++, and Python
 
-![Profile views](https://gpvc.arturio.dev/your-github-username) 
+![](https://komarev.com/ghpvc/?username=midoriya-2-0&color=brightgreen)
 
 - 📝 I'm currently working on Projects using C++
 - 🌱 I'm currently learning Advanced Algorithms and Data Structures
