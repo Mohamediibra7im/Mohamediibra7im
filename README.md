@@ -25,15 +25,20 @@
 
 <br />
 
-### Languages and Tools:
+### Languages :
 
 <img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="HTML5" width="35px" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://www.svgrepo.com/show/373535/css.svg" />
+<img align="left" alt="JAVA" width="35px" src="https://www.svgrepo.com/show/452234/java.svg" />
+<img align="left" alt="JAVASCRIPT" width="35px" src="https://www.svgrepo.com/show/452045/js.svg" />
+<br />
+
+### Tools
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/mohammediibra7im1/
