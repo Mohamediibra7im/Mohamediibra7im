@@ -1,8 +1,6 @@
 <p align="center">
 </p>
-
 <h1 align="center">Hi 👋, I'm Mohammed Ibrahim</h1>
-
 <p align="center">
   <b>Competitive programmer | Frontend developer (Learner)</b><br>
   Developing software and solving problems using C, C++, and Python
