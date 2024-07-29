@@ -12,6 +12,7 @@
 
 - 📝 I'm currently working on Projects using C++
 - 🌱 I'm currently learning Advanced Algorithms and Data Structures
+- 📚 I'm currently learning frontend 
 - 📫 How to reach me: mi4043673@gmail.com
 - 👨‍💻 All of my projects are available at [https://github.com/midoriya-2-0](https://github.com/midoriya-2-0)
 
