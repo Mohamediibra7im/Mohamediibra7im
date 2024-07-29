@@ -21,7 +21,6 @@
 [<img align="left" alt="LinkedIn" width="35px" src="https://img.icons8.com/fluency/48/linkedin.png" style="background-color: #0077B5" />][linkedin]
 [<img align="left" alt="LeetCode" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" style="color: #FFA116" />][leetcode]
 [<img align="left" alt="CodeForces" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" style="color: #1F8ACB" />][codeforces]
-[<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/glyph-neue/64/github.png" style="color: #181717" />][github]
 [<img align="left" alt="HackerRank" width="35px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" style="color: #2EC866" />][hackerrank]
 
 <br />
