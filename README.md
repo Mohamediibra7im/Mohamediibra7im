@@ -44,5 +44,4 @@
 [linkedin]: https://www.linkedin.com/in/mohammediibra7im1/
 [leetcode]: https://leetcode.com/u/midoriya_2_0/
 [codeforces]: https://codeforces.com/profile/midoriya_2_0
-[github]: https://github.com/midoriya-2-0
 [hackerrank]: https://www.hackerrank.com/profile/midoriya_2_0
