@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full-Stack Developer & Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=32CD32&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Data+Science+Enthusiast;Competitive+Programmer;Tech+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=32CD32&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Data+Science+Engineer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 ---
