@@ -63,6 +63,9 @@
   <a href="https://www.hackerrank.com/profile/MID0RIYA" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/mid0riya" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 <a href="https://codeforces.com/profile/MIDORIYA_" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%231970C2.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
