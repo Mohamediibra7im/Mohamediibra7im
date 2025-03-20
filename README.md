@@ -30,17 +30,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midoriya-2-0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamediibra7im&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midoriya-2-0&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamediibra7im&theme=dark" alt="Streak Stats" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midoriya-2-0&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamediibra7im&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
