@@ -30,17 +30,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamediibra7im&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamediibra7im&theme=dark" alt="Streak Stats" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamediibra7im&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamediibra7im&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
@@ -75,7 +65,7 @@
 
 ### 🎯 Competitive Programming
 
-- 🏆 **ECPC & ICPC Community Leader**
+- 🏆 **ECPC & ICPC Community Vice Leader**
 - 💡 Solving problems on **LeetCode, Codeforces, and HackerRank**
 - 🔥 Passionate about **Problem Solving & Algorithms**
 
