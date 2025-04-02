@@ -10,7 +10,7 @@
 
 <img align="right" src="https://github.com/AhmedKhairy0106/AhmedKhairy0106/blob/main/assets/coding.gif" alt="Coding" width="350" />
 
-- 🌱 Currently learning **Full-Stack .NET & Django**
+- 🌱 Currently learning **Full-Stack .NET**
 - 👨‍💻 My portfolio: Coming Soon
 - 📝 I write articles at [Facebook](https://www.facebook.com/Mo7ammed.Ibra7im.11)
 - 💬 Ask me about **C, C#, Python, Java, JavaScript**
