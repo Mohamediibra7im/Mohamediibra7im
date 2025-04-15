@@ -45,9 +45,9 @@
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamediibra7im&theme=dark&hide_border=false" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamediibra7im&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamediibra7im&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamediibra7im&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="GitHub Stats" width="55%"/><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamediibra7im&theme=dark&hide_border=false" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamediibra7im&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" width="36%" />
 </p>
 
 
@@ -63,4 +63,4 @@
 
 ## 🐍 A Snake Eating My Contributions Graph
 
-![Snake animation](https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Mohamediibra7im/Mohamediibra7im/blob/output/github-snake-dark.svg)
