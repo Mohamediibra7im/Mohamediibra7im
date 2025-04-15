@@ -61,8 +61,3 @@
 	<a href="https://www.instagram.com/mohammed_iibra7im"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<br><br>
-
-
-🔥 **Let's Connect & Build Something Amazing Together!**
-
