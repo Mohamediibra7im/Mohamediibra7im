@@ -1,14 +1,8 @@
 name: GitHub Snake Game
-
-
-
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
+  # run automatically every 24 hours
   schedule:
-
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *" 
 
 
 
