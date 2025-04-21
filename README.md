@@ -61,6 +61,10 @@
 	<a href="https://www.instagram.com/mohammed_iibra7im"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## 🐍 A Snake Eating My Contributions Graph
+## Pac-Man vs. My GitHub Streak 🕹️👻
 
-![snake gif](https://github.com/Mohamediibra7im/Mohamediibra7im/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
+</picture>
