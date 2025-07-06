@@ -28,7 +28,7 @@
 	  &emsp; 
 	<a href="https://leetcode.com/u/mid0riya"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
-	<a href="[https://atcoder.jp/users/ahmed_7oSkaa](https://atcoder.jp/users/Midoriya_Izuku)"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	<a href="https://atcoder.jp/users/Midoriya_Izuku"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
 	  &emsp; 
 	<a href="https://www.codechef.com/users/mid0riya"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp; 
