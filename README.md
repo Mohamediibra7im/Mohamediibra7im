@@ -40,7 +40,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css,sass,django,dotnet,nodejs,nextjs,go,react,vite,vercel,tailwind,bootstrap,md,sqlite,postgres,mysql,mongodb,git,github,linux,ubuntu,vscode,pycharm,sublime,clion,notion,postman" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css,sass,django,dotnet,nodejs,nextjs,go,react,vite,vercel,tailwind,bootstrap,md,sqlite,postgres,mysql,mongodb,git,github,linux,ubuntu,debian,vscode,pycharm,sublime,clion,notion,postman" />
 </p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
