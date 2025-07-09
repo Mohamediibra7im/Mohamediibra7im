@@ -24,17 +24,18 @@
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
 <div align="center" width=100%>
-  <a href="https://codeforces.com/profile/MIDORIYA_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  <a href="https://codeforces.com/profile/MIDORIYA_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=5%/></a>
 	  &emsp; 
-	<a href="https://leetcode.com/u/mid0riya"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	<a href="https://leetcode.com/u/mid0riya"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%5/></a>
 	  &emsp; 
-	<a href="https://atcoder.jp/users/Midoriya_Izuku"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	<a href="https://atcoder.jp/users/Midoriya_Izuku"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=5%/></a>
 	  &emsp; 
-	<a href="https://www.codechef.com/users/mid0riya"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	<a href="https://www.hackerrank.com/profile/MID0RIYA"><img src="https://d3moma7wl9.ufs.sh/f/xRZhVxWEJbFM5hhrNBVDPceGaQzspRf8tvH62OwX1ldE7oCU" alt="HackerRank" width=5% /></a>     
+	  &emsp;
+	<a href="https://www.codechef.com/users/mid0riya"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=5%/></a>
 	  &emsp; 
-	<a href="https://icpc.global/ICPCID/JB9H3C1Y3BTD"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
-	  &emsp; 
-	<a href="https://www.codingame.com/profile/ce98605c4593d1a5ca44cc5108652c645741066" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
+	<a href="https://icpc.global/ICPCID/JB9H3C1Y3BTD"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=5% /></a>     
+	  &emsp;
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
