@@ -71,9 +71,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
 </picture>
-
-## 👁️‍🗨️ Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mohamediibra7im/count.svg" alt="Profile Views Counter" />
-</div>
