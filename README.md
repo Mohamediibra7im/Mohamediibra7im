@@ -71,3 +71,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
 </picture>
+
+
+## Support 🙏🏼
+<p><a href="https://ko-fi.com/mohamediibra7im"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mohamediibra7im" /></a></p><br><br>
+
