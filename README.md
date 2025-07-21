@@ -13,7 +13,6 @@
 
 - 🌱 Currently learning **Full-Stack .NET**
 - 🏆 **ECPC & ICPC Community Vice Leader at HNU - FCSIT ICPC Community**
-- 📝 I write articles at **[Facebook](https://www.facebook.com/Mo7ammed.Ibra7im.11)**
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `HackerRank`
 - 💬 Ask me about **C, C#, Python, Java, JavaScript**
 - :thinking: This is **[MY RESUME](https://drive.google.com/file/d/1HyKzZwqvfWgyLHMubHvLDQfktLrlwnEa/view)**
