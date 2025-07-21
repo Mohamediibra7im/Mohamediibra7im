@@ -14,7 +14,6 @@
 - 🌱 Currently learning **Full-Stack .NET**
 - 🏆 **ECPC & ICPC Community Vice Leader at HNU - FCSIT ICPC Community**
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `HackerRank`
-- 💬 Ask me about **C, C#, Python, Java, JavaScript**
 - :thinking: This is **[MY RESUME](https://drive.google.com/file/d/1HyKzZwqvfWgyLHMubHvLDQfktLrlwnEa/view)**
 - :boom: You can visit **[MY WEBSITE](https://mohamed-ibrahim-omar.vercel.app/)**
 - ⚡ Fun fact: **Trust The Process!**
