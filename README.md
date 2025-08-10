@@ -11,7 +11,7 @@
 
 <img align="right" src="https://github.com/Mohamediibra7im/Mohamediibra7im/blob/main/images/Right_Side.gif?raw=true" width=25%>
 
-- 🌱 Currently learning **Full-Stack .NET**
+- 🌱 Currently working as **Full-Stack .NET developer**
 - 🏆 **ECPC & ICPC Community Vice Leader at HNU - FCSIT ICPC Community**
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `HackerRank`
 - :thinking: This is **[MY RESUME](https://drive.google.com/file/d/1HyKzZwqvfWgyLHMubHvLDQfktLrlwnEa/view)**
