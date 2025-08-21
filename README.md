@@ -12,7 +12,7 @@
 <img align="right" src="https://github.com/Mohamediibra7im/Mohamediibra7im/blob/main/images/Right_Side.gif?raw=true" width=25%>
 
 - 🌱 Currently working as **Full-Stack Software Engineer**
-- 🏆 **Vice Leader, Tech Lead & Problem Setter at HNU - FCSIT ICPC Community**
+- 🏆 **Vice Leader, Tech Lead & Problem Setter at HNU ICPC Community**
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `HackerRank`
 - :thinking: This is **[MY RESUME](https://drive.google.com/file/d/1HyKzZwqvfWgyLHMubHvLDQfktLrlwnEa/view)**
 - :boom: You can visit **[MY WEBSITE](https://mohamed-ibrahim-omar.vercel.app/)**
