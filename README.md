@@ -22,7 +22,7 @@
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
 <div align="center" width=100%>
-  <a href="https://codeforces.com/profile/MIDORIYA_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  <!-- <a href="https://codeforces.com/profile/MIDORIYA_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
 	<a href="https://leetcode.com/u/mid0riya"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=6%/></a>
 	  &emsp; 
@@ -31,9 +31,23 @@
 	<a href="https://www.hackerrank.com/profile/MID0RIYA"><img src="https://d3moma7wl9.ufs.sh/f/xRZhVxWEJbFM5hhrNBVDPceGaQzspRf8tvH62OwX1ldE7oCU" alt="HackerRank" width=6% /></a>     
 	  &emsp;
 	<a href="https://www.codechef.com/users/mid0riya"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
-	  &emsp; 
-	<a href="https://icpc.global/ICPCID/JB9H3C1Y3BTD"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
-	  &emsp;
+	  &emsp;  -->
+<a href="https://codeforces.com/profile/MIDORIYA_"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+  <a href="https://atcoder.jp/users/Midoriya_Izuku"><img alt = "AtCoder" src="https://badgen.org/img/atcoder/Midoriya_Izuku/rating/algorithm?style=plastic&label=AtCoder" /></a>
+	&emsp;
+	<a href="https://leetcode.com/u/mid0riya"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+	<a href="https://www.hackerrank.com/profile/MID0RIYA"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+	<a href="https://www.codechef.com/users/mid0riya"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;	
+<!-- <a href="https://icpc.global/ICPCID/JB9H3C1Y3BTD"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
+	  &emsp; -->
+
+
+  
+
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
