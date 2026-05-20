@@ -6,6 +6,7 @@ Hi, I'm **Mohamed**.
 - Competitive Programming Hobbyist
   - Candidate Master on Codeforces → [My Account](https://codeforces.com/profile/MIDORIYA_)
   - Vice Leader and Head of Technical Committee at [HNU ICPC Community](https://github.com/HNU-ICPC-Community), training 1,000+ students.
+  - Problem Setter at [Eolymp platform](https://eolymp.com)
 - [See my CV](https://drive.google.com/file/d/10dMfFbR22_62UgNhLsJ61P03ZfdblkY_/view?usp=sharing)
 
 **Projects**
