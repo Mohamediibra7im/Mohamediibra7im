@@ -25,11 +25,11 @@ Hi, I'm **Mohamed**.
 - Software that connects services and automates work.
 
 **Tech stack**
-- **Backend:** NestJS, ExpressJS, ASP.NET Core, Django, Flask.
-- **Frontend:** ReactJS, Next.js, TailwindCSS.
-- **Database:** PostgreSQL, MongoDB, MySQL, SQL Server.
-- **Languages:** C++, C#, Go, Python, TypeScript.
-- **Tools:** Prisma, Redis, RabbitMQ, Docker.
+- **Backend:** `NestJS`, `ExpressJS`, `ASP.NET Core`, `Django`, `Flask`.
+- **Frontend:** `ReactJS`, `Next.js`, `TailwindCSS`.
+- **Database:** `PostgreSQL`, `MongoDB`, `MySQL`, `SQL Server`.
+- **Languages:** `C++`, `C#`, `Go`, `Python`, `TypeScript`.
+- **Tools:** `Prisma`, `Redis`, `RabbitMQ`, `Docker`.
 
 **Currently**
 - Building backend systems and scalable web platforms.
