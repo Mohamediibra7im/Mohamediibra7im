@@ -4,7 +4,7 @@ Hi, I'm **Mohamed**.
 - Fixing problems with architecture and logic.
 - 3rd year computer science student at [Helwan National University](http://www.hnu.edu.eg/)
 - Competitive Programming Hobbyist
-  - Candidate Master on Codeforces → [My Account](https://codeforces.com/profile/MIDORIYA_)
+  - Master on Codeforces → [My Account](https://codeforces.com/profile/MIDORIYA_)
   - Vice Leader and Head of Technical Committee at [HNU ICPC Community](https://github.com/HNU-ICPC-Community), training 1,000+ students.
   - Problem Setter at [Eolymp platform](https://eolymp.com)
   - Open Source Contributor at [CPH Extension](https://github.com/agrawal-d/cph)
