@@ -8,6 +8,7 @@ Hi, I'm **Mohamed**.
   - Problem Setter at [Eolymp platform](https://eolymp.com)
   - Open Source Contributor at [CPH Extension](https://github.com/agrawal-d/cph)
     - Merged contribution → [PR #651](https://github.com/agrawal-d/cph/pull/651)
+    - Pending contribution → [PR #653](https://github.com/agrawal-d/cph/pull/653)
 - [See my CV](https://drive.google.com/file/d/10dMfFbR22_62UgNhLsJ61P03ZfdblkY_/view?usp=sharing)
 
 **Projects**
