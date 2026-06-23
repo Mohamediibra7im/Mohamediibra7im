@@ -10,13 +10,15 @@ Hi, I'm **Mohamed**.
     - Merged contribution → [PR #651](https://github.com/agrawal-d/cph/pull/651)
     - Pending contribution → [PR #653](https://github.com/agrawal-d/cph/pull/653)
 - [See my CV](https://drive.google.com/file/d/10dMfFbR22_62UgNhLsJ61P03ZfdblkY_/view?usp=sharing)
+- [See My Portfolio](https://mohamediibrahim.dev)
 
 **Projects**
-- [Upsolve.it](https://upsolve-it.hnuicpc.tech/) → platform for competitive programmers with auto-generated training sessions, progress tracking, and Codeforces integration. *(Next.js, NestJS, MongoDB, Prisma)*.
+- [Upsolve.it](https://upsolve-it.hnuicpc.tech) → platform for competitive programmers with auto-generated training sessions, progress tracking, and Codeforces integration. *(Next.js, NestJS, MongoDB, Prisma)*.
+- [CP-BASE](https://cp-base.mohamediibrahim.dev) → competitive programming template hub with a terminal-inspired interface, enabling fast template discovery, organization, and sharing for efficient problem solving. *(Next.js, PostgreSQL, Tailwind CSS, Radix UI)*.
 - [MetaCoder](https://meta-coder.dev) → programming competition platform for contest management, team registration, and event handling. *(Next.js, ExpressJS, MongoDB)*.
 - [Polloi Platform](https://polloi.app) → multi-product ecosystem with a full LMS, enterprise website, and marketing platform with real-time features and multilingual support. *(Next.js, NestJS, PostgreSQL, Redis, RabbitMQ)*.
-- [Linkiasoft CRM](https://github.com/Mohamediibra7im) → CRM system for sales lead tracking and business workflow management. *(Next.js, NestJS, PostgreSQL, Redis)*.
-- [Study Vault](https://github.com/Mohamediibra7im) → material-sharing platform with JWT auth and full-stack Next.js architecture. *(Next.js, MongoDB, TypeScript, Tailwind CSS)*.
+- [Linkiasoft CRM](https://crm.linkiasoft.com) → CRM system for sales lead tracking and business workflow management. *(Next.js, NestJS, PostgreSQL, Redis)*.
+- [Study Vault](https://study-vault-material.vercel.app) → material-sharing platform with JWT auth and full-stack Next.js architecture. *(Next.js, MongoDB, TypeScript, Tailwind CSS)*.
 
 **Building**
 - Competitive programming tools.
